@@ -1,0 +1,7 @@
+{
+  "name": "Fill Rule Editor",
+  "id": "771155994770327940",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
